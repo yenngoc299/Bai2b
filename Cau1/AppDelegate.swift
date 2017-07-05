@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Cau1
-//
-//  Created by anhtuong on 7/5/17.
-//
-//
-
 import UIKit
 
 @UIApplicationMain
